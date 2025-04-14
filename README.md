@@ -12,7 +12,7 @@ cd Data-Sprint-Project
 
 Make sure your environment has all the necessary dependencies (e.g., Jupyter, pandas, scikit-learn, etc.)
 
-	1. extract_olist_estimate.ipynb
+- extract_olist_estimate.ipynb
 Extracts the estimated delivery days from the Olist dataset.
 	2. Olist-ML.ipynb
 Prepares and trains both machine learning and deep learning models.
