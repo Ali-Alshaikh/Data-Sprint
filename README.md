@@ -6,6 +6,7 @@
 ```bash
 git clone https://github.com/Ali-Alshaikh/Data-Sprint-Project.git
 cd Data-Sprint-Project
+```
 
 ### 2. Run the Notebooks in Order
 
