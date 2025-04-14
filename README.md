@@ -27,6 +27,10 @@ Make sure your environment has all the necessary dependencies (e.g., Jupyter, pa
 
 ### 3. Run the Power BI Dashboard
 
+use this file from the repo: `sprint.pbix` 
+
+`OR`
+
 Download the Power BI file from the following Google Drive link:
 
 🔗 [Power BI Report](https://drive.google.com/file/d/1Wq-jRVsYuALHd6P92ATCdiaiMNgce7tq/view?usp=sharing)
